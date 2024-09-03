@@ -20,18 +20,17 @@ panderOptions('keep.trailing.zeros', TRUE)
 panderOptions('keep.line.breaks', TRUE)
 ```
 
-- Course Website: https://cities.github.io/datascience2019
-- GitHub repository: https://github.com/cities/datascience2019
+- Course Website: https://PSUTrec.github.io/datascience2024
+- GitHub repository: https://github.com/PSUTrec/datascience2024
 
 # Syllabus
 
-Did you ever feel you are “drinking from a hose” with the amount of data you are attempting to analyze? Have you been frustrated with the tedious steps in your data processing and analysis process and thinking there gotta be a better way to do things? Are you curious what the buzz of data science is about? If any of your answers is yes, then this course is for you. Although computing is now an integral part of every aspect of science and engineering, transportation research included, most students of science, engineering, and planning are never taught how to build, use, validate, and share software well. As a result, many spend hours or days doing things badly that could be done well in just a few minutes. The goal of this course is to start changing that so that the students can spend less time wrestling with software and more time doing useful research. Building on the successful data science training programs, such as the Software Carpentry (http://www.software-carpentry.org/) and Data Carpentry, and recent development of related software and research, this course exposes students in transportation research and practice to the best practices in scientific computing through hands-on lab sessions and aims to help students tackle the challenge of "drinking from a hose" when dealing with overwhelming amount of data that is increasingly common in transportation research and practice.
+Tired of finding errors in your spreadsheets that perpetuate and cascade through your work? Still trying to cram “big” data into tiny worksheets? Wish you had an easier way to easily share data and results with others? Want to better manage and maintain your workflow? Always wanted to learn R and version control but never found the time? If any of your answers are yes, then this course is for you! Building on other successful data science training resources, this course exposes students in transportation research and practice and best practices in scientific computing through hands-on lab sessions.
 
 ## Topics 
 
-The table below shows by date lecture topics, computer labs, and readings, and dates that assignments will be handed out and due. Supplement readings will be posted on course website. Topics are subject to adjustment according to the need of students.
+The table below shows the order of topics that will be covered during the course and are subject to change:
 
-### Part I: Introduction to R and version control
 1. [Data science best practices](02-ds-best-practices.html)
 1. [Setup, overview, and introduction](01-part1-overview.html)
 1. [The Unix shell](03-unix-shell.html)
@@ -57,11 +56,9 @@ The table below shows by date lecture topics, computer labs, and readings, and d
 1. Part II Wrap Up
 
 ## Location and Time
-- Room: Portland State University Engineering Building, 350
-- Time:
-        - Part I 4/3 - 4/5, 9am - 5pm
-        - Part II 4/8 - 4/10, 9am - 5pm
-    
+- Room: Portland State University Engineering Building, 315
+- Time: September 10-12, 9:30am - 4:30pm
+
 ## Prerequisite
 
 Basic knowledge and experience of conduct scientific research with quantitative information; skill of using (or keen to learn) a programming language and/or data processing and statistical software (such as python, R, SPSS, Stata).
