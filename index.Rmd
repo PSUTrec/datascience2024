@@ -29,7 +29,7 @@ Tired of finding errors in your spreadsheets that perpetuate and cascade through
 
 ## Topics 
 
-The table below shows the order of topics that will be covered during the course and are subject to change:
+The table below shows the topics that will be covered during the course and are subject to change:
 
 1. [Data science best practices](02-ds-best-practices.html)
 1. [The Unix shell](03-unix-shell.html)
@@ -40,7 +40,6 @@ The table below shows the order of topics that will be covered during the course
 1. [Data manipulation with tidyr](09-tidyr.html)
 1. [Formatting dates](13-formatdates.html)
 1. [Class project](10-classproject.html)
-1. Part I Wrap Up
 
 ## Location and Time
 
