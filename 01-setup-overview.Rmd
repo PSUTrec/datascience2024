@@ -13,14 +13,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Installing R and R Studio
 R and R Studio are two different software packages. You must install R first.
-- Download and install the latest version of F from https://ftp.osuosl.org/pub/cran/ . Or, go to www.r-project.org and and click on the _download R_ link and choose your preferred CRAN mirror. You will have the option to download and install R for Linux, Mac, or Windows. (*NOTE: Requires administrator/root privellege.*)
-- Install the latest RStudio Desktop free version from https://www.rstudio.com/products/rstudio/download/ .
+  
+- Download and install the latest version of R from https://ftp.osuosl.org/pub/cran/. Or, go to www.r-project.org and and click on the _download R_ link and choose your preferred CRAN mirror. You will have the option to download and install R for Linux, Mac, or Windows. (*NOTE: Requires administrator/root privellege.*)
+- Install the latest [RStudio Desktop](https://posit.co/download/rstudio-desktop/).
 
 If you already have R and RStudio installed on your laptop, it'd be a good idea to check their version and upgrade them to the latest (if they are not).
 
 ## Installing Git
 
-Directions are a courtesy of Software Carpentry.
+Directions are a courtesy of [The Carpentries](https://carpentries.org/index.html).
 
 ### Windows
 This will provide you with Git and Git Bash.
@@ -57,31 +58,3 @@ If Git is not already available on your machine you can try to install it via yo
 
 ### Installation Verification
 Launch RStudio and you should see a program window like this: <center><img src="http://swcarpentry.github.io/r-novice-gapminder/fig/01-rstudio.png"></center>
-
-
-# What is Data Science?
-
-According to Wikipedia:
-
-> Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured, similar to data mining.
->
-> Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science.
-
-[![Data Science Venn Diagram](https://static1.squarespace.com/static/5150aec6e4b0e340ec52710a/t/51525c33e4b0b3e0d10f77ab/1364352052403/Data_Science_VD.png?format=750w)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) 
-
-Data Science Venn Diagram by Drew Conway
-
-## Resources
-- [What is Data Science?](https://datascience.berkeley.edu/about/what-is-data-science/) by datascience@Berkeley
-- [A Taxonomy of Data Science](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/) by Hilary Mason and Chris Wiggins
-- ["You can't do data science in a GUI"](https://www.youtube.com/watch?v=cpbtcsGE0OA) by Hadley Wickham
-- [Why Do We Need Data Science When We’ve Had Statistics for Centuries?](https://blogs.wsj.com/cio/2014/05/02/why-do-we-need-data-science-when-weve-had-statistics-for-centuries/) by Irving Wladawsky-Berger
-
-# Why R
-
-- [Free, as in beer & speech](https://www.r-project.org/about.html)
-- Large and growing community, with [More than 15,000 packages and counting](https://www.rdocumentation.org/trends)
-- Powerful and flexible
-  - [Graphics Gallery](http://www.r-graph-gallery.com/)
-  - [Interactive Web Apps: Interactive Plots, Dashboard, Widget ...](https://shiny.rstudio.com/gallery/)
-  - Packages for doing statistics & machine learning, creating documents, grabbing/processing data ...
