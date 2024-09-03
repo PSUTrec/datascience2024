@@ -59,9 +59,6 @@ The table below shows the order of topics that will be covered during the course
 - Room: Portland State University Engineering Building, 315
 - Time: September 10-12, 9:30am - 4:30pm
 
-## Prerequisite
-
-Basic knowledge and experience of conduct scientific research with quantitative information; skill of using (or keen to learn) a programming language and/or data processing and statistical software (such as python, R, SPSS, Stata).
 
 ## Format
 
@@ -69,7 +66,14 @@ Classes will all be hands-on sessions with lecture, discussions, and labs. Readi
 
 ## Software and Hardware
 
-This course will use R, the free statistical software, and RStudio (https://www.rstudio.com/) as our main interface to R. The lecture and lab instructions will be provided using R. Student must bring their own laptop. The instructor and TA will help the students set up their laptop to run all examples/exercises. They can review/re-run the examples in lectures and labs by themselves. 
+Participants are responsible for bringing their own laptop with the required software installed. If you're using a government issued laptop, you might need to reach out to your IT department as some of these installations might required admin rights. The following is a list of required software:  
+
+- [R](https://cran.rstudio.com/)
+- [RStudio](https://posit.co/download/rstudio-desktop/)
+- [Git](https://git-scm.com/downloads)
+- [JKD 21](https://adoptium.net/) (Windows users: suggest "Install just for you" install option)
+
+Please follow these directions
 
 ## Resources and course materials
 
