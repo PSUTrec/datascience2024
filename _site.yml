@@ -1,17 +1,15 @@
-name: "Introduction to Data Science"
+name: "Introduction to R"
 navbar:
-  title: "Introduction to Data Science Spring 2019"
+  title: "Introduction to R 2024"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Part I"
+    - text: "Topics"
       menu: 
         - text: "Data science best practices"
           href: 02-ds-best-practices.html
-        - text: "Setup, overview, and introduction"
-          href: 01-part1-overview.html
         - text: "The Unix shell"
           href: 03-unix-shell.html
         - text: "Version control with Git"
@@ -28,24 +26,6 @@ navbar:
           href: 13-formatdates.html
         - text: "Class project"
           href: 10-classproject.html
-    - text: Part II
-      menu:
-        - text: "Overview"
-          href: 06-part2-overview.html
-        - text: "Writing functions"
-          href: 
-        - text: "API's"
-          href: 
-        - text: "More data wrangling"
-          href: 
-        - text: "Spatial analysis and visualizations"
-          href: 
-        - text: "Intro to statistical analysis"
-          href: 
-        - text: "Sharing reproducible work products"
-          href: 
-        - text: "Class project"
-          href: 
 
         
         
